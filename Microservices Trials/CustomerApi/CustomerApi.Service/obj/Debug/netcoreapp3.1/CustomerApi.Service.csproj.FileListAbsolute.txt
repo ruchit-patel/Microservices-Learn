@@ -1,0 +1,16 @@
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.csprojAssemblyReference.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.AssemblyInfoInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.AssemblyInfo.cs
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Service.deps.json
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Service.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Service.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Data.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Data.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Domain.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.csproj.CopyComplete
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.pdb

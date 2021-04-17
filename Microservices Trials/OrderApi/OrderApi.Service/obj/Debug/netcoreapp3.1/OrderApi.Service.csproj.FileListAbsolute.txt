@@ -1,0 +1,14 @@
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\bin\Debug\netcoreapp3.1\OrderApi.Service.deps.json
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\bin\Debug\netcoreapp3.1\OrderApi.Service.dll
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\bin\Debug\netcoreapp3.1\OrderApi.Service.pdb
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\bin\Debug\netcoreapp3.1\OrderAPI.Data.dll
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\bin\Debug\netcoreapp3.1\OrderAPI.Data.pdb
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\obj\Debug\netcoreapp3.1\OrderApi.Service.csprojAssemblyReference.cache
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\obj\Debug\netcoreapp3.1\OrderApi.Service.AssemblyInfoInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\obj\Debug\netcoreapp3.1\OrderApi.Service.AssemblyInfo.cs
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\obj\Debug\netcoreapp3.1\OrderApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\obj\Debug\netcoreapp3.1\OrderApi.Service.csproj.CopyComplete
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\obj\Debug\netcoreapp3.1\OrderApi.Service.dll
+C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderApi.Service\obj\Debug\netcoreapp3.1\OrderApi.Service.pdb

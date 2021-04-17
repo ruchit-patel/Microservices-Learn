@@ -1,0 +1,9 @@
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\bin\Debug\netcoreapp3.1\CustomerApi.Domain.deps.json
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\bin\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\bin\Debug\netcoreapp3.1\CustomerApi.Domain.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.csprojAssemblyReference.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.AssemblyInfoInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.AssemblyInfo.cs
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.pdb

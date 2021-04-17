@@ -1,0 +1,12 @@
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\bin\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\obj\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.AssemblyInfoInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\obj\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.AssemblyInfo.cs
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\obj\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.csprojAssemblyReference.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\bin\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.deps.json
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\bin\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\bin\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\bin\Debug\netcoreapp3.1\CustomerApi.Domain.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\obj\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.csproj.CoreCompileInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\obj\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.csproj.CopyComplete
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\obj\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Messaging.Send\obj\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.pdb

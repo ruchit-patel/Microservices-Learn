@@ -1,0 +1,15 @@
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Data.deps.json
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Data.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Data.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.csprojAssemblyReference.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.AssemblyInfoInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.AssemblyInfo.cs
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Domain.pdb
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.csproj.CopyComplete
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Data.runtimeconfig.json
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Data.runtimeconfig.dev.json
+C:\Users\R854912\source\repos\Microservices Trials\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.genruntimeconfig.cache
