@@ -1,0 +1,65 @@
+version: "3.6"
+services: 
+    orderapidb:
+        container_name: orderapidb
+        image: "mcr.microsoft.com/mssql/server"
+        environment:
+            SA_PASSWORD: "Lolpass@123"
+            ACCEPT_EULA: "Y"
+
+    customerapidb:
+        container_name: customerapidb
+        image: "mcr.microsoft.com/mssql/server"
+        environment:
+            SA_PASSWORD: "Lolpass@123"
+            ACCEPT_EULA: "Y"
+
+    rabbitmq:
+        container_name: rabbitmq
+        ports:
+            - 5672:5672
+            - 15672:15672
+        environment:
+            - RABBITMQ_DEFAULT_USER=user
+            - RABBITMQ_DEFAULT_PASS=password
+        image: rabbitmq:3-management 
+
+    customerapi:
+        container_name: customerapi
+        ports: 
+            - 8000:80
+            - 8001:443
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Production
+            - ASPNETCORE_URLS=https://+:443;http://+:80
+            - ASPNETCORE_Kestrel__Certificates__Default__Password=Password
+            - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
+        volumes:
+            - ~/.aspnet/https:/https:ro
+        build:
+            context: ./CustomerApi
+            dockerfile: CustomerApi/Dockerfile
+        restart: on-failure
+        depends_on: 
+            - rabbitmq
+            - customerapidb
+
+    orderapi:
+        container_name: order
+        ports: 
+            - 9000:80
+            - 9001:443
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Production
+            - ASPNETCORE_URLS=https://+:443;http://+:80
+            - ASPNETCORE_Kestrel__Certificates__Default__Password=Password
+            - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
+        volumes:
+            - ~/.aspnet/https:/https:ro
+        build:
+            context: ./OrderApi      
+            dockerfile: OrderApi/Dockerfile
+        restart: on-failure
+        depends_on: 
+            - rabbitmq
+            - orderapidb

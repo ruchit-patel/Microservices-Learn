@@ -5723,11 +5723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service.Test\\OrderApi.Service.Test.csproj",
+      "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service.Test\\OrderApi.Service.Test.csproj",
       "projectName": "OrderApi.Service.Test",
-      "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service.Test\\OrderApi.Service.Test.csproj",
+      "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service.Test\\OrderApi.Service.Test.csproj",
       "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service.Test\\obj\\",
+      "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

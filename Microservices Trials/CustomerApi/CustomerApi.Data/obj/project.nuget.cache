@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AverEuHhKZ8iUO0TKabVrAc4639BgQVtvueDucVgZVb0LsGLs4xGE/gpm2GT2uoeAjRUL/kGfyHYXR6lo+Jsuw==",
+  "dgSpecHash": "HI5V7yOkVUqUH9aJ95dKY9dqD/JuEbfCBRqe2A5Lysz3o7kCuvigkXD8mxutmuvM67GnL7L7209CSOAtVD0Z4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj",
+  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R854912\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\R854912\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

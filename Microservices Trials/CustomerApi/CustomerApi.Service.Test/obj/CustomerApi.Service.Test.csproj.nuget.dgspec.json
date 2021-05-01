@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj": {}
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj",
         "projectName": "CustomerApi.Service.Test",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

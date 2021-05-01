@@ -11,6 +11,7 @@ using OrderApi.Messaging.Receive.Options.v1;
 using RabbitMQ.Client.Events;
 using Newtonsoft.Json;
 using OrderApi.Service.v1.Models;
+using Microsoft.Extensions.Logging;
 
 namespace OrderApi.Messaging.Receive.Receiver.v1
 {
@@ -23,9 +24,11 @@ namespace OrderApi.Messaging.Receive.Receiver.v1
         private readonly string _queueName;
         private readonly string _username;
         private readonly string _password;
+        private readonly ILogger<CustomerFullNameUpdateReceiver> _logger;
 
-        public CustomerFullNameUpdateReceiver(ICustomerNameUpdateService customerNameUpdateService, IOptions<RabbitMqConfiguration> rabbitMqOptions)
+        public CustomerFullNameUpdateReceiver(ICustomerNameUpdateService customerNameUpdateService, IOptions<RabbitMqConfiguration> rabbitMqOptions, ILogger<CustomerFullNameUpdateReceiver> logger)
         {
+            _logger = logger;
             _hostname = rabbitMqOptions.Value.Hostname;
             _queueName = rabbitMqOptions.Value.QueueName;
             _username = rabbitMqOptions.Value.UserName;
@@ -60,6 +63,7 @@ namespace OrderApi.Messaging.Receive.Receiver.v1
 
                   HandleMessage(updateCustomerFullNameModel);
                   _channel.BasicAck(ea.DeliveryTag, false);
+                  _logger.LogInformation($"Message received. Content: {content}");
               };
             consumer.Shutdown += OnConsumerShutdown;
             consumer.Registered += OnConsumerRegistered;

@@ -10,3 +10,15 @@ C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderAPI.Data\obj\De
 C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.csproj.CopyComplete
 C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.dll
 C:\Users\R854912\source\repos\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.pdb
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\bin\Debug\netcoreapp3.1\OrderAPI.Data.deps.json
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\bin\Debug\netcoreapp3.1\OrderAPI.Data.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\bin\Debug\netcoreapp3.1\OrderAPI.Data.pdb
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.csprojAssemblyReference.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.AssemblyInfoInputs.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.AssemblyInfo.cs
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.csproj.CopyComplete
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\OrderApi\OrderAPI.Data\obj\Debug\netcoreapp3.1\OrderAPI.Data.pdb

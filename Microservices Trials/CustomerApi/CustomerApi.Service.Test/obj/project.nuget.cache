@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nEJW1uMWysAmTjRXurYFoDZKBmiWyDSRVR+vRnsKjkEtYOW8x/9Cd6xtSdYQA1MfES88y/FnqxsbnnT5Xmea5g==",
+  "dgSpecHash": "OLkUld3bEdzb0RKqup01RYBDWT7rehOuVQxF8I9SecZSz9YK96Ll8KGuqMMsVwRt7j0Ub1lM69Lm5jvRUt5MEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj",
+  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service.Test\\CustomerApi.Service.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R854912\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\R854912\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

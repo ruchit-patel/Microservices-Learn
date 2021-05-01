@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mTexT/8q99fvKTAIyRvN4utDSW3d3/V9au/0kPQcYQ2yIR2LwE/N7vfRbhyj/84iNNk3gLWVXiYel3sFQAmkEg==",
+  "dgSpecHash": "EL46wVUAzmODNKEAoxcu24WVbRfebfjcau3yuZACmxUvDi28poBhS5o0O19oD2C+iXG+x+jr0Bf3TNC+UUzogQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj",
+  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R854912\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\R854912\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

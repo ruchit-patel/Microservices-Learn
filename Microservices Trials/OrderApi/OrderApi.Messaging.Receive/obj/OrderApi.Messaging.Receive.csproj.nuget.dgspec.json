@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj": {}
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj",
         "projectName": "OrderAPI.Data",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderAPI.Data\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj",
         "projectName": "OrderApi.Domain",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj",
         "projectName": "OrderApi.Messaging.Receive",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Messaging.Receive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -168,8 +168,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj"
               }
             }
           }
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj",
         "projectName": "OrderApi.Service",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service\\OrderApi.Service.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Service\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -246,11 +246,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderAPI.Data\\OrderAPI.Data.csproj"
               },
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj"
               }
             }
           }

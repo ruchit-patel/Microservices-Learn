@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQ+H/DmbIQZOByjOWxkrX5+CPPtZ1P6kilX5Q5Q/Y0pmR3ABS6zqjIwjVf8nMxcAu+jW2sxa3SBrNRbgcZhmpA==",
+  "dgSpecHash": "a1/DvoCyIG7eNOJPXOVw876pJF57YqJyF1/H73/yPDcSgrCrh6LBy44rs+RY/xEBRTATSdnDhlMMhvdRHVbq9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
+  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R854912\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\R854912\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",

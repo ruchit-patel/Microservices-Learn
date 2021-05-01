@@ -1,0 +1,16 @@
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\bin\Debug\netcoreapp3.1\RabbitMQReceiveTrial.exe
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\bin\Debug\netcoreapp3.1\RabbitMQReceiveTrial.deps.json
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\bin\Debug\netcoreapp3.1\RabbitMQReceiveTrial.runtimeconfig.json
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\bin\Debug\netcoreapp3.1\RabbitMQReceiveTrial.runtimeconfig.dev.json
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\bin\Debug\netcoreapp3.1\RabbitMQReceiveTrial.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\bin\Debug\netcoreapp3.1\RabbitMQReceiveTrial.pdb
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\obj\Debug\netcoreapp3.1\RabbitMQReceiveTrial.csprojAssemblyReference.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\obj\Debug\netcoreapp3.1\RabbitMQReceiveTrial.AssemblyInfoInputs.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\obj\Debug\netcoreapp3.1\RabbitMQReceiveTrial.AssemblyInfo.cs
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\obj\Debug\netcoreapp3.1\RabbitMQReceiveTrial.csproj.CoreCompileInputs.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\obj\Debug\netcoreapp3.1\RabbitMQReceiveTrial.csproj.CopyComplete
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\obj\Debug\netcoreapp3.1\RabbitMQReceiveTrial.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\obj\Debug\netcoreapp3.1\RabbitMQReceiveTrial.pdb
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQReceiveTrial\RabbitMQReceiveTrial\obj\Debug\netcoreapp3.1\RabbitMQReceiveTrial.genruntimeconfig.cache

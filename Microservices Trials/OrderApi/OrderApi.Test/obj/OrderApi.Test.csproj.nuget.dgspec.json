@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Test\\OrderApi.Test.csproj": {}
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Test\\OrderApi.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Test\\OrderApi.Test.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Test\\OrderApi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Test\\OrderApi.Test.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Test\\OrderApi.Test.csproj",
         "projectName": "OrderApi.Test",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Test\\OrderApi.Test.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Test\\OrderApi.Test.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\OrderApi\\OrderApi.Test\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\OrderApi\\OrderApi.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

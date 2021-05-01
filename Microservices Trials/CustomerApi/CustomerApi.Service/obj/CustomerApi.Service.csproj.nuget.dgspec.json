@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj": {}
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj",
         "projectName": "CustomerApi.Data",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
         "projectName": "CustomerApi.Domain",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
         "projectName": "CustomerApi.Messaging.Send",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -174,8 +174,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
               }
             }
           }
@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj": {
+    "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj",
+        "projectUniqueName": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj",
         "projectName": "CustomerApi.Service",
-        "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj",
+        "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj",
         "packagesPath": "C:\\Users\\R854912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\obj\\",
+        "outputPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -252,14 +252,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj"
               },
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
               },
-              "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj": {
-                "projectPath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj"
+              "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj": {
+                "projectPath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj"
               }
             }
           }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AIccEx+oYaWjciSfeWL/oPHpgnvbUpj2OK3gyT8yBovdld3utPriuOGCn1Yfj0bUDep8hrTRfR9KjiKc4feW/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\RabbitMQReceiveTrial\\RabbitMQReceiveTrial\\RabbitMQReceiveTrial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R854912\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\R854912\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\R854912\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

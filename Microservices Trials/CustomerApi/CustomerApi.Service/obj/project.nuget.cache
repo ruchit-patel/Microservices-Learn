@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSkLNA+Tfls8WUEbiqet0qycjhc0fTL09tu3UKOLpJJDaeQO0hjewIybB3dO4uW69jAOsRsvNtKc/wwpuRZm7g==",
+  "dgSpecHash": "wIY/iK+6aqWp3NTCwlrXhUv3+JmSWWIHSHN40j1MQ8FNYMWS8l8W9kLynRhDQs8yF2GupQ1mxeolZLBclwgYHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj",
+  "projectFilePath": "C:\\Users\\R854912\\source\\repos\\MicroserviceLearn\\Microservices Trials\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R854912\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\R854912\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",

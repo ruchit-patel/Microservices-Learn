@@ -1,0 +1,16 @@
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\bin\Debug\netcoreapp3.1\RabbitMQSendTrial.exe
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\bin\Debug\netcoreapp3.1\RabbitMQSendTrial.deps.json
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\bin\Debug\netcoreapp3.1\RabbitMQSendTrial.runtimeconfig.json
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\bin\Debug\netcoreapp3.1\RabbitMQSendTrial.runtimeconfig.dev.json
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\bin\Debug\netcoreapp3.1\RabbitMQSendTrial.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\bin\Debug\netcoreapp3.1\RabbitMQSendTrial.pdb
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\obj\Debug\netcoreapp3.1\RabbitMQSendTrial.csprojAssemblyReference.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\obj\Debug\netcoreapp3.1\RabbitMQSendTrial.AssemblyInfoInputs.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\obj\Debug\netcoreapp3.1\RabbitMQSendTrial.AssemblyInfo.cs
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\obj\Debug\netcoreapp3.1\RabbitMQSendTrial.csproj.CoreCompileInputs.cache
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\obj\Debug\netcoreapp3.1\RabbitMQSendTrial.csproj.CopyComplete
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\obj\Debug\netcoreapp3.1\RabbitMQSendTrial.dll
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\obj\Debug\netcoreapp3.1\RabbitMQSendTrial.pdb
+C:\Users\R854912\source\repos\MicroserviceLearn\Microservices Trials\RabbitMQSendTrial\RabbitMQSendTrial\obj\Debug\netcoreapp3.1\RabbitMQSendTrial.genruntimeconfig.cache

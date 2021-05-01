@@ -43,7 +43,7 @@ namespace OrderApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddHealthChecks();
-            services.AddOptions();
+
             var serviceClientSettingConfig = Configuration.GetSection("RabbitMq");
             var serviceClientSettings = serviceClientSettingConfig.Get<RabbitMqConfiguration>();
             services.Configure<RabbitMqConfiguration>(serviceClientSettingConfig);
@@ -98,15 +98,15 @@ namespace OrderApi
             services.AddTransient<IRequestHandler<UpdateOrderCommand>, UpdateOrderCommandHandler>();
             services.AddTransient<ICustomerNameUpdateService, CustomerNameUpdateService>();
 
-            if(serviceClientSettings.Enabled)
+            if (serviceClientSettings.Enabled)
             {
                 services.AddHostedService<CustomerFullNameUpdateReceiver>();
             }
-
+            services.AddOptions();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, OrderContext context)
         {
             if (env.IsDevelopment())
             {
@@ -116,7 +116,7 @@ namespace OrderApi
             {
                 app.UseHsts();
             }
-
+            context.Database.Migrate();
             app.UseHttpsRedirection();
             app.UseSwagger();
             app.UseSwaggerUI(c =>
